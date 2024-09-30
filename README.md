@@ -17,13 +17,11 @@ I'm a Full Stack Developer based in Madurai, passionate about creating innovativ
   - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="30" height="30"/> Git
   - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="30" height="30"/> GitHub
   - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="30" height="30"/> VS Code
-  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="30" height="30"/> PyCharm
   - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="Vercel" width="30" height="30"/> Vercel
   - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netlify/netlify-original.svg" alt="Netlify" width="30" height="30"/> Netlify
-  - Agile Methodologies
 - **Graphic Design:**
-  - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Adobe_Photoshop_logo_2021.svg/1200px-Adobe_Photoshop_logo_2021.svg.png" alt="Photoshop" width="30" height="30"/> Photoshop
-  - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Adobe_XD_icon.svg/1200px-Adobe_XD_icon.svg.png" alt="Adobe XD" width="30" height="30"/> Adobe XD
+  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="30" height="30"/> Photoshop
+  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-line.svg" alt="Adobe XD" width="30" height="30"/> Adobe XD
   - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-line.svg" alt="Illustrator" width="30" height="30"/> Illustrator
   - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="30" height="30"/> Figma
 
