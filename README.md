@@ -4,25 +4,43 @@
 I'm a Full Stack Developer based in Madurai, passionate about creating innovative solutions and enhancing user experiences.
 
 ## Skills
-- **Frontend:**
-  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="30" height="30"/> HTML
-  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="30" height="30"/> CSS
-  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30"/> JavaScript
-  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" width="30" height="30"/> Bootstrap
-  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="30" height="30"/> Tailwind
-- **Backend:**
-  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" height="30"/> Python
-  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="30" height="30"/> MySQL
-- **Tools & Technologies:**
-  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="30" height="30"/> Git
-  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="GitHub" width="30" height="30"/> GitHub
-  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="30" height="30"/> VS Code
-  - Agile Methodologies
-- **Graphic Design:**
-  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="30" height="30"/> Photoshop
-  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-line.svg" alt="Adobe XD" width="30" height="30"/> Adobe XD
-  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-line.svg" alt="Illustrator" width="30" height="30"/> Illustrator
-  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="30" height="30"/> Figma
+
+<table>
+  <tr>
+    <td>
+      <strong>Frontend:</strong><br>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="30" height="30"/> HTML<br>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="30" height="30"/> CSS<br>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30"/> JavaScript<br>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" width="30" height="30"/> Bootstrap<br>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="30" height="30"/> Tailwind
+    </td>
+    <td>
+      <strong>Backend:</strong><br>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" height="30"/> Python<br>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="30" height="30"/> MySQL
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      <strong>Tools & Technologies:</strong><br>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="30" height="30"/> Git<br>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="GitHub" width="30" height="30"/> GitHub<br>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="30" height="30"/> VS Code<br>
+      Agile Methodologies
+    </td>
+    <td>
+      <strong>Graphic Design:</strong><br>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="30" height="30"/> Photoshop<br>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-line.svg" alt="Adobe XD" width="30" height="30"/> Adobe XD<br>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-line.svg" alt="Illustrator" width="30" height="30"/> Illustrator<br>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="30" height="30"/> Figma
+    </td>
+  </tr>
+</table>
 
 ## Projects
 Here are some of my notable projects:
