@@ -2,14 +2,8 @@
 
 ## About Me
 I am a dedicated Full Stack Developer based in Madurai, committed to leveraging my extensive expertise in both frontend and backend technologies to craft innovative and scalable solutions. I am particularly passionate about frontend development, specializing in creating highly interactive and engaging user interfaces that elevate the overall user experience. With a focus on meticulous design and robust functionality, I ensure that every application I develop exemplifies excellence in efficiency and usability. My ambition is to spearhead projects that harness cutting-edge technologies and foster collaborative synergy, ultimately delivering impactful solutions that empower organizations to thrive in an increasingly competitive digital environment.
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&theme=radical)
-![Your Activity Graph](https://activity-graph.herokuapp.com/graph?username=yourusername&theme=react-dark)
-# Hi there, I'm Sriraamprabu! 👋
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsmesri2k3&show_icons=true&theme=radical)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sriraamprabu&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sriraamprabu&theme=radical)
 
 ## Skills
 - **Frontend:**
