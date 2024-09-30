@@ -47,10 +47,9 @@ Feel free to reach out if you'd like to collaborate on projects or just want to 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsmesri2k3&show_icons=true&theme=radical)
 
-![Your Activity Graph](https://activity-graph.herokuapp.com/graph?username=yourusername&theme=react-dark)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=itsmesri2k3&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
 
 Thank you for visiting my profile! 🎉
