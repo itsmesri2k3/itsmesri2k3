@@ -45,7 +45,6 @@ Feel free to reach out if you'd like to collaborate on projects or just want to 
 - [🔗 LinkedIn](https://www.linkedin.com/in/yourprofile)
 - [🌐 Portfolio](https://raamvox-footwear.vercel.app/)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsmesri2k3&show_icons=true&theme=radical)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=itsmesri2k3&show_icons=true&theme=radical" alt="GitHub Stats" />
