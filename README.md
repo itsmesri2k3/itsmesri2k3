@@ -9,7 +9,7 @@ I'm a Full Stack Developer based in Madurai, passionate about creating innovativ
   - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="30" height="30"/> CSS
   - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30"/> JavaScript
   - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" width="30" height="30"/> Bootstrap
-  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="30" height="30"/> Tailwind CSS
+  - <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuF7o_QNyY4w0wWYb0R3bYbqjE-x3npu5ZQA&s)" alt="Tailwind CSS" width="30" height="30"/> Tailwind CSS
 - **Backend:**
   - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" height="30"/> Python
   - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="30" height="30"/> MySQL
