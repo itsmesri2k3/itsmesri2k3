@@ -46,6 +46,8 @@ Feel free to reach out if you'd like to collaborate on projects or just want to 
 - [🌐 Portfolio](https://raamvox-footwear.vercel.app/)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsmesri2k3&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 Thank you for visiting my profile! 🎉
