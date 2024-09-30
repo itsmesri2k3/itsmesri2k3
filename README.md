@@ -2,7 +2,6 @@
 
 ## About Me
 I am a dedicated Full Stack Developer based in Madurai, committed to leveraging my extensive expertise in both frontend and backend technologies to craft innovative and scalable solutions. I am particularly passionate about frontend development, specializing in creating highly interactive and engaging user interfaces that elevate the overall user experience. With a focus on meticulous design and robust functionality, I ensure that every application I develop exemplifies excellence in efficiency and usability. My ambition is to spearhead projects that harness cutting-edge technologies and foster collaborative synergy, ultimately delivering impactful solutions that empower organizations to thrive in an increasingly competitive digital environment.
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsmesri2k3&show_icons=true&theme=radical)
 
 
 ## Skills
@@ -45,5 +44,8 @@ Feel free to reach out if you'd like to collaborate on projects or just want to 
 
 - [🔗 LinkedIn](https://www.linkedin.com/in/yourprofile)
 - [🌐 Portfolio](https://raamvox-footwear.vercel.app/)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsmesri2k3&show_icons=true&theme=radical)
+
 
 Thank you for visiting my profile! 🎉
