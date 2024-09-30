@@ -1,7 +1,7 @@
 # Hi there, I'm Sriraamprabu! 👋
 
 ## About Me
-I'm a Full Stack Developer based in Madurai, passionate about creating innovative solutions and enhancing user experiences.
+I am a dedicated Full Stack Developer based in Madurai, committed to leveraging my expertise in both frontend and backend technologies to deliver innovative and efficient solutions. With a passion for crafting seamless user experiences, I strive to enhance the functionality and design of applications, ensuring they meet the diverse needs of users and stakeholders alike. My goal is to contribute to projects that push the boundaries of creativity and technology, ultimately making a positive impact in the digital landscape.
 
 ## Skills
 - **Frontend:**
